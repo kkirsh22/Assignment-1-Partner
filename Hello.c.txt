@@ -1,0 +1,15 @@
+ /**
+ *Author: Kathleen Kirshenbaum
+ *Date: 9/5/18
+ *Hello world program
+ */
+
+#include <stdlib.h>
+#include <stdio.h>
+
+int main(int argc, char **argv) {
+
+ printf("Kathleen Kirshenbaum\n");
+
+ return 0;
+}
